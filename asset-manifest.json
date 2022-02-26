@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AFG-Blog-App-React-Firebase/static/css/main.04126721.css",
-    "main.js": "/AFG-Blog-App-React-Firebase/static/js/main.44fe95f9.js",
+    "main.js": "/AFG-Blog-App-React-Firebase/static/js/main.4120f469.js",
     "index.html": "/AFG-Blog-App-React-Firebase/index.html",
     "static/media/modeIcon.svg": "/AFG-Blog-App-React-Firebase/static/media/modeIcon.14093450fac5b11dff6380d511659be9.svg",
     "static/media/update.svg": "/AFG-Blog-App-React-Firebase/static/media/update.4fa02ba3eeb22ca444b3fa80117773ac.svg",
     "static/media/delete.svg": "/AFG-Blog-App-React-Firebase/static/media/delete.1129c53a10f3c716357028ea030e9d23.svg",
     "main.04126721.css.map": "/AFG-Blog-App-React-Firebase/static/css/main.04126721.css.map",
-    "main.44fe95f9.js.map": "/AFG-Blog-App-React-Firebase/static/js/main.44fe95f9.js.map"
+    "main.4120f469.js.map": "/AFG-Blog-App-React-Firebase/static/js/main.4120f469.js.map"
   },
   "entrypoints": [
     "static/css/main.04126721.css",
-    "static/js/main.44fe95f9.js"
+    "static/js/main.4120f469.js"
   ]
 }
