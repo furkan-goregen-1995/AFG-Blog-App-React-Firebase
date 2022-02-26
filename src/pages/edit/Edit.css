@@ -1,0 +1,49 @@
+.edit {
+    color: #555;
+    max-width: 480px;
+    margin: 60px auto;
+    
+  }
+
+  .edit label span {
+    display: block;
+    margin: 30px 0 10px;
+  }
+  .edit p {
+    margin-top: 10px;
+    font-size: 0.8em;
+  }
+  .edit .btn {
+    display: block;
+    width: 100px;
+    font-size: 1em;
+    color: #fff;
+    padding: 8px 8px;
+    border: 0;
+    border-radius: 4px;
+    background-color: #786fa6;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px auto;
+  }
+  
+  .edit .btn:hover{
+    background-color: #fff;
+    border:1px solid #786fa6;
+    color: #786fa6;
+  }
+
+  .edit.dark {
+	 
+	background: #596275;
+	color: #e4e4e4;
+  }
+
+  .edit.dark h2{
+    color: #fff;
+  }
+  
+  .edit.dark button{
+	 
+    background: #555;
+    }
